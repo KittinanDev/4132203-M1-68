@@ -1,0 +1,16 @@
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Text</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ID</td>
+                <td>Text</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
