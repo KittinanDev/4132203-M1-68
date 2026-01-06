@@ -1,18 +1,20 @@
 <div>My PHP</div>
 <?php
-echo "Hello PHP !!!";
+    
+    echo "Hello PHP !!!";
 
-$name = "Win";
-$age = 22;
+    $name = "Bank";
+    $age = 19;
 
-var_dump($name);
+    var_dump($name);
+
 ?>
-<?= $name . " : " . $age ?>
+<?= $name." : ".$age ?>
 
 <div>
     <form id="fm_blog">
         <input type="text" name="blog">
-        <button type="submit">SAVE</button>
+        <button type="submit">Save</button>
     </form>
 </div>
 
